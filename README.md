@@ -1,7 +1,7 @@
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hiramonibrahma&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hiramonibrahma&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramonibrahma&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hiramonibrahma&theme=blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hiramonibrahma&theme=blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramonibrahma&theme=blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hiramonibrahma&icon=0&color=3)](https://visitcount.itsvg.in)
