@@ -8,8 +8,8 @@
 
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_kb_network) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hiramoni_Brahma) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_kb_network) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hiramoni_Brahma) 
 
 # Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,7 +23,9 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
-
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![VS Code](https://camo.githubusercontent.com/76667762b75c3213e366340885eb492ed1d318bea18e12ba5b6f9b9894a27c52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d706c6173746963266c6f676f3d5653636f646526636f6c6f723d626c7565)
+![kali linux](https://camo.githubusercontent.com/ee7d0d909d686fc71d012f9ba583efe6b9a3e22a30d30000a977dd0ed3193fcc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b616c692532304c696e75782d3535374339343f7374796c653d706c6173746963266c6f676f3d6b616c696c696e7578266c6f676f436f6c6f723d7768697465)
+![nmap](https://camo.githubusercontent.com/b92bae9d4b9aac810154816b2a1d81c9ef2d7d5b488b37429bf8bba87f9e2797/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6d61702d3436383242343f7374796c653d706c6173746963266c6f676f3d6e6d6170266c6f676f436f6c6f723d7768697465)
+
