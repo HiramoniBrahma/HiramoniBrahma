@@ -7,6 +7,10 @@
   </span>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=I+am+Kurkure+Brahma" alt="Typing SVG" />
+</p>
+
 
 <br>
 <br>
