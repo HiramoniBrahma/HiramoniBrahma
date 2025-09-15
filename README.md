@@ -2,8 +2,9 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=I+am+Kurkure+Brahma" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Kurkure%20Brahma-00BFFF?style=for-the-badge&logoColor=white" />
 </p>
+
 
 
 
