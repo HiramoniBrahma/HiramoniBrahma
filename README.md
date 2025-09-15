@@ -1,10 +1,11 @@
 <img width="666" height="375" alt="68747470733a2f2f692e70696e696d672e636f6d2f373336782f64322f64312f66302f64326431663066353564316664616464356566316131666637646664353065312e6a7067-removebg-preview" src="https://github.com/user-attachments/assets/701bb3ef-e9fe-425b-8671-01dd98b9e620" />
 <br>
 <br>
+
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hiramonibrahma&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hiramonibrahma&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramonibrahma&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![github](https://github-readme-stats.vercel.app/api?username=hiramonibrahma&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![github](https://nirzak-streak-stats.vercel.app/?user=hiramonibrahma&theme=rose&hide_border=false)<br/>
+![github](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramonibrahma&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hiramonibrahma&icon=0&color=3)](https://visitcount.itsvg.in)
