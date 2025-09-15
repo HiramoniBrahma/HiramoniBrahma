@@ -2,8 +2,8 @@
 <br>
 <br>
 <p align="center">
-  I am <span style="color:#00BFFF; font-weight:bold; font-size:28px;">
-    Kurkure Brahma
+  HI It's Me <span style="color: blue; font-weight:bold; font-size:50px;">
+    Kurkure
   </span>
 </p>
 
