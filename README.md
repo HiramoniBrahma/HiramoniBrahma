@@ -7,26 +7,6 @@
 <br>
 <br>
 
-# GitHub Stats:
-<table>
-<tr>
-<td width="55%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HiramoniBrahma&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=HiramoniBrahma&theme=dark&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiramoniBrahma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://camo.githubusercontent.com/9e33759decde7629a1e2df5d70ec6d924349adc7d769101df4d7f75bd4cea392/68747470733a2f2f692e696d6775722e636f6d2f31546f574557772e706e67" width="400px" alt="GIF" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_kb_network) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hiramoni_Brahma) 
@@ -54,6 +34,27 @@
 
 ---
  <div>
+
+# GitHub Stats:
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HiramoniBrahma&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=HiramoniBrahma&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiramoniBrahma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://camo.githubusercontent.com/9e33759decde7629a1e2df5d70ec6d924349adc7d769101df4d7f75bd4cea392/68747470733a2f2f692e696d6775722e636f6d2f31546f574557772e706e67" width="400px" alt="GIF" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
    
 ![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
 </div>
