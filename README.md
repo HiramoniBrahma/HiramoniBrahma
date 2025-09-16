@@ -2,7 +2,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+Whatsapp!+Welcome+To+My+Network" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+Coders!+Welcome+To+My+Network" alt="Typing SVG" />
 </p>
 <br>
 <br>
@@ -50,7 +50,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://camo.githubusercontent.com/9e33759decde7629a1e2df5d70ec6d924349adc7d769101df4d7f75bd4cea392/68747470733a2f2f692e696d6775722e636f6d2f31546f574557772e706e67" width="400px" alt="GIF" />
+<img src="https://pin.it/6y4C335jk" width="400px" alt="GIF" />
 
 </td>
 </tr>
