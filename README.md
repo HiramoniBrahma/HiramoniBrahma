@@ -54,7 +54,7 @@
 </table>
 
 <div align="center">
+---
 
-   
 ![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
 </div>
