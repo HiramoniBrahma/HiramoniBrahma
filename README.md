@@ -50,7 +50,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://pin.it/6lSJULlhL" width="400px" alt="GIF" />
+<img src="https://i.pinimg.com/736x/65/67/7e/65677edbed865f6eaee4bb72c6a38f51.jpg" width="400px" alt="GIF" />
 
 </td>
 </tr>
