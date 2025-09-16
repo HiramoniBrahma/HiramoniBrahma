@@ -8,9 +8,10 @@
 <br>
 
 # GitHub Stats:
+![image](https://i.pinimg.com/736x/92/fd/ca/92fdca14bfaa52d9e1e96f245692c1d3.jpg)
 ![github](https://github-readme-stats.vercel.app/api?username=hiramonibrahma&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![github](https://nirzak-streak-stats.vercel.app/?user=hiramonibrahma&theme=rose&hide_border=false)<br/>
-![image](https://i.pinimg.com/736x/92/fd/ca/92fdca14bfaa52d9e1e96f245692c1d3.jpg)
+
 ![github](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramonibrahma&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
