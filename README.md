@@ -2,7 +2,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1305A6&width=435&lines=Hi+Whatsapp!+welcome+to+my+Network" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF21&width=435&lines=Hi+Whatsapp!+welcome+to+my+Network" alt="Typing SVG" />
 </p>
 <br>
 <br>
