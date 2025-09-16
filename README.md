@@ -11,8 +11,8 @@
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_kb_network) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hiramoni_Brahma) 
-
 <br>
+
 ## Skills:
 ![HTML5](https://camo.githubusercontent.com/3cf0017315ef41cf3d650223f909acfab12a9b4f24d479c8f42334f67d3580e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3544344236433f7374796c653d706c6173746963266c6f676f3d68746d6c3526636f6c6f723d303030303030) 
 ![C](https://camo.githubusercontent.com/075b483be79b077823510e3b743547a34b6e8c622f16c97f2ed4804301f4c79b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d706c6173746963266c6f676f3d63266c6f676f436f6c6f723d7768697465)
