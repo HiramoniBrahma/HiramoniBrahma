@@ -6,8 +6,7 @@
 </p>
 <br>
 <br>
- <div>
-   
+
 # GitHub Stats:
 <table>
 <tr>
@@ -54,5 +53,7 @@
 ![Wireshark](https://camo.githubusercontent.com/a98847505a863c47e5aa4a8d9af52ebbeda25cddb00b46c7fa6373fed0d0bd57/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57697265736861726b2d3136373941373f7374796c653d706c6173746963266c6f676f3d77697265736861726b266c6f676f436f6c6f723d7768697465)
 
 ---
+ <div>
+   
 ![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
 </div>
