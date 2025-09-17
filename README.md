@@ -49,7 +49,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://i.pinimg.com/736x/49/68/aa/4968aa9d11596544723b04b58f783b62.jpg" width="400px" alt="GIF" />
+<img src="https://i.pinimg.com/736x/75/58/73/7558736d9e70b73fe8535906a64719df.jpg" width="400px" alt="GIF" />
 
 </td>
 </tr>
