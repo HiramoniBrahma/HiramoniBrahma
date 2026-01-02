@@ -38,20 +38,6 @@
 
  <div>
 
-# GitHub Stats:
-<table>
-<tr>
-<td width="55%" valign="top">
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://i.pinimg.com/736x/75/58/73/7558736d9e70b73fe8535906a64719df.jpg" width="400px" alt="GIF" />
-
-</td>
-</tr>
-</table>
-
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
